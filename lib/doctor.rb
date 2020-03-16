@@ -22,7 +22,7 @@ class Doctor
   end
   
   def patients
-    
+    self.appointments.collect
   end
   
   
