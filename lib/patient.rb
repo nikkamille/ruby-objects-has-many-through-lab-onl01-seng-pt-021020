@@ -22,7 +22,7 @@ class Patient
   end
   
   def doctors
-    
+    appointments
   end
   
 end
